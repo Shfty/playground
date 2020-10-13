@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "playground",
+    "playground_macros"
+]

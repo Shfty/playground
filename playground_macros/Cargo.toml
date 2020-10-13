@@ -1,0 +1,12 @@
+[package]
+name = "playground_macros"
+version = "0.1.0"
+authors = ["Josh Palmer <jpalmerwatkins@gmail.com>"]
+edition = "2018"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+store = { path = "../../store/store" }
+syn = "1.0.44"
