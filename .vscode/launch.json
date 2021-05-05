@@ -12,7 +12,8 @@
             "stopAtEntry": false,
             "cwd": "${workspaceRoot}",
             "environment": [],
-            "preLaunchTask": "Rust: Build Debug"
+            "preLaunchTask": "Rust: Build Debug",
+            "console": "integratedTerminal"
         },
         {
             "name": "(Windows) Launch Release",
@@ -22,7 +23,8 @@
             "stopAtEntry": false,
             "cwd": "${workspaceRoot}",
             "environment": [],
-            "preLaunchTask": "Rust: Build Release"
+            "preLaunchTask": "Rust: Build Release",
+            "console": "integratedTerminal"
         },
         {
             "name": "(Windows) Attach",
