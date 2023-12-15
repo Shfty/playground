@@ -2,5 +2,4 @@
 
 members = [
     "playground",
-    "playground_macros"
 ]
